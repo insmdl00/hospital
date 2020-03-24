@@ -1,0 +1,15 @@
+Profession ( idPro, libPro, #idZH )
+
+Personnel hospitalier ( idPH, nomPH, prenomPH, telPH, ruePH, villePH, CPPH, valide, #idPro)
+
+Personne(idPer, prenomPer,nomPer, ruePer,villePer, CPPer)
+Personne::Patient (date admission, pathologieATraiter)
+Personne::Visiteur(date visite, heure visite)
+
+Chambre (idChambre, #idZH)
+ 
+ZH (zone hôpital) (idZH, nomZH, couleurZH) 
+
+Opération à effectuer ( idOpEff, libOpEff, dateOpEff, heureOpEff, #idPA, #idOpable, #idCor)
+
+Subir(idSub, #idOpEff, #idPH, #idPA)
