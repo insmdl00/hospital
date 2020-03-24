@@ -1,1 +1,119 @@
+Cahier des Charges
+13 janvier 2020
+e-mergencies
+
+
+
+1.Présentation du projet
+
+1.1 Contexte
+Nous avons remarqué qu’il existe un problème de gestion de salle et de personnels au sein des hôpitaux. En effet, il existe un réel besoin d’administrer de manière simples les différentes ressources d’un hôpital.
+
+1.2 Objectifs
+Centraliser l’administration d'hôpitaux, c’est à dire, simplifier l’administration de la distribution des salles, des patients et des médecins.
+
+1.3 Description de l’existant
+Intranet déjà disponible pour l’administration mais logiciels séparés avec des limites de communication entre les services.
+
+1.4 Critères d'acceptabilité du produit
+Procédure de validation et critères d’acceptation par le professeur DIEGUEZ LODEIRO Martin lors de la séance de présentation orale de l’UE projet intégrateur NSV au semestre 4 de la licence informatique NSV.
+
+
+
+2 Expression des besoins
+
+2.1 Besoins fonctionnels
+
+Le logiciel devra permettre 
+la visualisation simples des salles disponibles, avec leurs types
+la répartition équitable des médecins
+la répartitions équitable des médecins en fonction de leurs types dans des salles de leurs types
+Gestion des ambulances
+Attribution de degré d’urgence pour chaque patient
+
+Differents types: 
+Patients
+pas urgent
+urgent
+très urgents
+Personnel hospitalier
+médecine générale
+immunologie
+radiologie
+chirurgie
+neurologie
+pneumologie
+cardiologie
+odontologie
+dermatologie
+service d'accueil de traitement des urgences
+traumatologie
+médecine interne
+endocrinologie
+anatomo-pathologie
+hématologie
+gastro-entérologie
+urologie
+pharmacie
+maternité
+Pédiatrie
+Service des grands brûlé
+
+salles
+individuelles
+communes
+Pôles
+Chirurgie, Oncologie et Services Médico Techniques
+Pôle Geriatrie Autonomie
+Pôle Médecine - Femme Mère Enfant
+
+2.2 Besoins non fonctionnels
+Les spécifications non fonctionnelles sont toutes les spécifications qui n’expriment pas une fonction du logiciel (contraintes de performance, système d’exploitation cible...).
+la solution que l’on doit concevoir devra respecter certaines contraintes : 
+la portabilité
+la simplicité d’utilisation
+la mise à jour en temps réel (réactif)
+doit s’adapter à toutes les situations de métiers
+doit s’utiliser sur tous les systèmes d’exploitations (solution Web)
+doit être connecté à internet (solution Web)
+
+
+
+3 Contraintes
+3.1 Coûts 
+Budget alloué au projet et moyens matériels et logiciels mis à disposition.
+Nous avons 15 séances d’une heure et demi pour développer du début jusqu’à la fin. Nous sommes un groupe de 4 développeurs; le taux moyen horaire d’un développeur web est actuellement de 35€/h donc 140€/h pour le groupe, nous pouvons estimer projet à 3150€ pour 22h30 de projet. 
+3.2 Délais
+Ce projet doit être rendu avant la fin du semestre, soit avant fin avril.
+Les séances de projets sont les lundis pendant 1h30 :
+lundi 13 janvier
+lundi 20 janvier
+lundi 27 janvier
+lundi 3 février
+lundi 10 février
+lundi 17 février
+lundi 24 février
+lundi 9 mars
+lundi 16 mars
+lundi 23 mars
+lundi 30 mars
+lundi 6 avril
+lundi 13 avril
+lundi 20 avril
+lundi 27 avril 
+
+3.3 Autres contraintes 
+Les informations circulant dans la plateforme doivent être et rester confidentiel car il s’agit d’informations personnelles des patients ou des membres hospitalier.
+
+
+
+4 Déroulement du projet
+
+4.1 Planification
+Le projet va se dérouler lors des séances de projet intégrateur NSV. Nous allons utiliser la solution Trello pour planifier et organiser notre projet tout au long du semestre. Avec Trello, nous pouvons avoir un diagramme de Gantt permettant d’avoir un graphique montrant les dead line de chaque étapes. 
+
+4.2 Documentation
+Description de la documentation devant accompagner le logiciel à sa livraison.
+ 
+
 
