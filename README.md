@@ -15,7 +15,7 @@ INSTALLATION STEPS
 
 1) Copy the "webapp" directory in a web server (ex: in the "www" directory of wamp server)
 
-2) Import the "database_full_simplified.sql" file in phpmyadmin (if problems, manually create empty database and execute the sql code present in the file into the sql command line)
+2) Import the "database_full_simplified.sql" file in phpmyadmin (if problems, manually create empty database and name it "e-mergencies", then execute the sql code present in the file into the sql command line)
 
 3) Go to "localhost/webapp/index.php" on your browser
 
