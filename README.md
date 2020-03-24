@@ -19,7 +19,7 @@ INSTALLATION STEPS
 
 3) Go to "localhost/webapp/index.php" on your browser
 
-4) Use the following credentials : 
+4) Use, for exemple, the following right credentials to test the login : id= , pw= 
 
 
 
