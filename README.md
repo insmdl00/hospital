@@ -21,6 +21,12 @@ INSTALLATION STEPS
 
 4) Use, for exemple, the following right credentials to test the login : id= , pw= 
 
+==============================================
+
+DATABASE INFORMATION
+
+
+
 
 
 
