@@ -7,7 +7,7 @@ Project name : e-mergencies
 
 Supervisor : DIEGUEZ LODEIRO Martin
 
-This project project is made by MARTINS Maximiliann, BUESSARD Matthieu, DUPUIS Jules and SILVA Gorka
+This project is made by MARTINS Maximiliann, BUESSARD Matthieu, DUPUIS Jules and SILVA Gorka
 
 ==============================================
 
