@@ -29,6 +29,9 @@ INSTALLATION STEPS
 
 DATABASE INFORMATION
 
+There are 2 versions of the database. We made the first one for a complete study of an hospital management. It regroups the entity-relationsheep diagram, the Merise analisys and the "database_empty.sql" file.
+On another side, there is the simplified version we used for developing and testing. This is the one you should use to test the webapp. It regroups 2 sql files : "databse_empty_simplified.sql" and "database_full_simplified".
+
 
 
 
