@@ -67,6 +67,13 @@ Chirurgie, Oncologie et Services Médico Techniques
 Pôle Geriatrie Autonomie
 Pôle Médecine - Femme Mère Enfant
 
+Gestion des types de comptes : 
+Patient : prénom.nom@e-mergencies.com
+Hoptial staff : prénom.nom@staff.e-mergencies.com
+Administration : prénom.nom@admin.e-mergencies.com
+
+
+
 2.2 Besoins non fonctionnels
 Les spécifications non fonctionnelles sont toutes les spécifications qui n’expriment pas une fonction du logiciel (contraintes de performance, système d’exploitation cible...).
 la solution que l’on doit concevoir devra respecter certaines contraintes : 
@@ -104,8 +111,6 @@ lundi 27 avril
 
 3.3 Autres contraintes 
 Les informations circulant dans la plateforme doivent être et rester confidentiel car il s’agit d’informations personnelles des patients ou des membres hospitalier.
-
-
 
 4 Déroulement du projet
 
