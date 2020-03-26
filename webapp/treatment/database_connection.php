@@ -1,6 +1,5 @@
 <?php 
 
-
 function connectToDb() {
 	try {
     	$db = new PDO('mysql:host=localhost; dbname=e-mergency', 'root', '');
