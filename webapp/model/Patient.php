@@ -11,6 +11,15 @@ class Patient : Person {
 	private $_room;
 
 	public function __construct($id, $email, $password, $lastName, $firstName, $birthdate, $city, $cityCode, $phone, $size, $weight, $bloodGroup, $swNum, $socialWelfare, $room) {
+		$this->$_id = $id;
+		$this->$_email = $email;
+		$this->$_password = $password;
+		$this->$_lastName = $lastName;
+		$this->$_firstName = $firstName;
+		$this->$_birthdate = $birthdate;
+		$this->$_city = $city;
+		$this->$_cityCode = $cityCode;
+		$this->$_phone = $phone;
 		$this->$_size = $size;
 		$this->$_weight = $weight;
 		$this->$_bloodGroup = $bloodGroup;
