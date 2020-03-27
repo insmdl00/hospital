@@ -10,7 +10,7 @@ class Patient : Person {
 	private $_socialWelfare;
 	private $_room;
 
-	public function __construct($size, $weight, $bloodGroup, $swNum, $socialWelfare, $room) {
+	public function __construct($id, $email, $password, $lastName, $firstName, $birthdate, $city, $cityCode, $phone, $size, $weight, $bloodGroup, $swNum, $socialWelfare, $room) {
 		$this->$_size = $size;
 		$this->$_weight = $weight;
 		$this->$_bloodGroup = $bloodGroup;
