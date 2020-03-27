@@ -6,7 +6,7 @@ class HospitalStaff : Person {
 	private $_job;	
 	private $_sector;
 
-	public function __construct($job, $sector) {
+	public function __construct($id, $email, $password, $lastName, $firstName, $birthdate, $city, $cityCode, $phone, $job, $sector) {
 		$this->$_job = $job;
 		$this->$_sector = $sector;
 	}
