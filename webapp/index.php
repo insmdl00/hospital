@@ -1,47 +1,21 @@
-<?php
-	session_start();
-?>
-
-<!DOCTYPE HTML5>
-
+<!DOCTYPE html>
 <html>
+<head>
+	<title>Page d'accueil</title>
+	<script type="text/javascript" src="js/ajout.js"></script>
+	<link rel="stylesheet" type="text/css" href="css/ajout.css">
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<!-- A ajouter à la page d'accueil -->
 
-
-	<head>
-		<title>Sign in</title>
-
-		<meta charset="utf-8">
-
-		<link rel="stylesheet" href="css/sign_in.css">
-	</head>
-
-
-	<header>
-		
-	</header>
-
-
-	<body class="background">
-		<div class="form">
-			<center>
-				<h1>e-mergencies</h1>
-				<img src="img/logo.jpg">
-
-				<form method="post" target="treatment/sign_in.php">
-					<br><br><label>Email :</label><br>
-					<input type="email" name="email"><br><br>
-					<label>Password :</label><br>
-					<input type="password" name="password"><br><br>
-					<input type="submit" value="Sign in">
-				</form>
-			</center>
-		</div>
-	</body>
-
-
-	<footer>
-		
-	</footer>
-
-
+</head>
+<body>
+    <p><img class="image" src="https://raw.githubusercontent.com/insmdl00/hospital/master/webapp/img/logo.jpg" alt="logo E-mergencies" title="logo E-mergencies"></p>
+    <br><br><br><br><br><br><br><br><br><br><br><br>
+	<button class="bouton" onclick="ajoutPatient()">Ajouter un Patient</button>
+	<br>
+	<button class="bouton" onclick="ajoutStaff()">Ajouter un membre de l'équipe médicale</button>
+	<br>
+	<button class="bouton" onclick="ajoutAdmin()">Ajouter un membre de l'administration</button>
+	
+</body>
 </html>
